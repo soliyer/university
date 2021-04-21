@@ -1,0 +1,35 @@
+.site-header{
+  padding: 1rem 0;
+  border-bottom: 0.1rem solid black;
+}
+.navbar-header li{
+    padding: 0 1rem;
+   
+}
+.navbar-header a.brand{ 
+    font-size:2rem;
+   
+}
+.navbar-header li a{
+    font-size: 1.3rem;
+    
+}
+.table-c{
+    padding: 2rem 0;
+}
+.table-c table{
+    text-align: center;
+}
+.table-c table .btn-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.table-c table .btn-items a{
+    max-width: 5rem;
+    width: 100%;
+}
+.regForm{
+    padding: 2rem 0;
+}
